@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/KhanhTQ-Organization/com.ktgame.json.mini/compare/v1.0.2...v1.0.3) (2026-08-20)
+
+
+### Bug Fixes
+
+* update core ([e8727cb](https://github.com/KhanhTQ-Organization/com.ktgame.json.mini/commit/e8727cb1f327a80376111fda79241b07c9968c8d))
+
 ## [1.0.2](https://github.com/KhanhTQ-Organization/com.ktgame.json.mini/compare/v1.0.1...v1.0.2) (2026-05-06)
 
 
